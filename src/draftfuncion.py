@@ -3,7 +3,7 @@
 #mu
 #alpha
 
-#time, 1/250 days
+#time, 1/252 days
 #v_performance_error, anual performance 
 #n_size, days
 
@@ -11,4 +11,5 @@
 def likelihood(sigma, mu, alpha, time, v_performance_error, n_size):
   #Todo: add formula
   #result = ...
+
   return result
